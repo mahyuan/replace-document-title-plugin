@@ -1,0 +1,19 @@
+{
+  "name": "replace-document-title-plugin",
+  "version": "1.0.0",
+  "description": "A plugin of temporary replacement document title",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhy-web/replace-document-title-plugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhy-web/replace-document-title-plugin/issues"
+  },
+  "homepage": "https://github.com/mhy-web/replace-document-title-plugin#readme"
+}
